@@ -9,3 +9,4 @@ deleting betty
 deleting directory
 going back to the previous directory
 listing files
+checking file type
