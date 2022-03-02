@@ -2,3 +2,4 @@ script that prints current working directory
 displaying the contents list of the directory
 changing working directory
 long format
+displaying everything including hidden files
