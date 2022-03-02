@@ -6,3 +6,4 @@ displaying everything including hidden files
 creating my first directory
 moving a file
 deleting betty
+deleting directory
