@@ -11,3 +11,4 @@ going back to the previous directory
 listing files
 checking file type
 symbolic link
+copying html files
