@@ -5,3 +5,4 @@ print all the groups the current user is part of
 New owner
 Empty
 execute file Hello
+multiple permissions
