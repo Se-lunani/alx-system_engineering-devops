@@ -11,4 +11,5 @@ James Bond
 John DOe
 mirror
 addinfg execute permissions to only all sub directories of the current directories for owner, group and all other users
+More directories
  
