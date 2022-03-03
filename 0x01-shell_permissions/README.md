@@ -8,4 +8,5 @@ execute file Hello
 multiple permissions
 execution permission
 James Bond
-John DOe 
+John DOe
+mirror 
