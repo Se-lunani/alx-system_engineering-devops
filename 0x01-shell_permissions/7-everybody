@@ -1,3 +1,2 @@
 #!bin/bash
-chmod a=rwx /0x01-shell_permissions/7-everybody
-
+chmod 777 hello
